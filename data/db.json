@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title": "First Blog",
+            "body": "Lorem IPsum ...",
+            "author": "xyz",
+            "id":1
+        },
+        {
+            "title": "Second Blog",
+            "body": "Lorem ipsum ...",
+            "author": "abc",
+            "id":2
+        },
+        {
+            "title": "Third Blog",
+            "body": "Lorem IPsum ...",
+            "author": "xbc",
+            "id":3
+        }
+    ]
+}
